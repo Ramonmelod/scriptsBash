@@ -1,4 +1,4 @@
-## Instructions for creation of a introduction banner for a SSH servers
+## Instructions for creation of an introduction banner for SSH servers
 
 1. modify the SSH daemon configuration file located at /etc/ssh/sshd_config. Here's how you can do it:
 Open the SSH daemon configuration file using a text editor like `nano` or `vim`.
