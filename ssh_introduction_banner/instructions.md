@@ -25,7 +25,7 @@ You cand do it by running the following command:
 sudo touch /etc/ssh/sh_banner.txt
 
 ```
-4. Add your personalized greeting message to the file. You can create great banners in sites like the one below: 
+4. Add your personalized greeting message to the file. if you want you can create a banners, like the one in the file `ssh_banner.txt` of this repository in sites like the one below: 
 
 
 ```
